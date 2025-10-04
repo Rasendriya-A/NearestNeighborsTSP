@@ -1,7 +1,6 @@
 # Nearest Neighbor Algorithm for Traveling Salesman Problem (TSP)
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
 Implementasi algoritma **Nearest Neighbor** untuk menyelesaikan masalah **Traveling Salesman Problem (TSP)** menggunakan Python. Program ini dibuat sebagai tugas mata kuliah **Sistem Cerdas** dengan fokus pada algoritma heuristik dan optimisasi.
@@ -61,8 +60,7 @@ NearestNeighborsTSP/
 │
 ├── README.md                    # Dokumentasi project
 ├── NearestNeighbor.py          # Implementasi algoritma (Python script)
-├── NearestNeighbor_TSP.ipynb   # Jupyter Notebook interaktif
-└── requirements.txt            # Dependencies (opsional)
+└── NearestNeighbor_TSP.ipynb   # Jupyter Notebook interaktif
 ```
 
 ## 💻 Cara Penggunaan
